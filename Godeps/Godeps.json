@@ -1,0 +1,22 @@
+{
+	"ImportPath": "go_web10/practice",
+	"GoVersion": "go1.15",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "v1.8.0-6-g083382b",
+			"Rev": "083382b7e6fc78cc91eb57afab268fe2f1b6ed6d"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "v1.8.0-6-g083382b",
+			"Rev": "083382b7e6fc78cc91eb57afab268fe2f1b6ed6d"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/scram",
+			"Comment": "v1.8.0-6-g083382b",
+			"Rev": "083382b7e6fc78cc91eb57afab268fe2f1b6ed6d"
+		}
+	]
+}
